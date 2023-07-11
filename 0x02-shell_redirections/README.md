@@ -1,1 +1,1 @@
-My readme that describes each script purpose
+0x02. Shell, I/O Redirections and filter
